@@ -1,4 +1,4 @@
-module "us-central1-probers" {
+module "composer-envs" {
   source = "./modules"
 
   region = "us-central1"
